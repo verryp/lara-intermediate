@@ -30,3 +30,4 @@ Route::get('/telegram-notif', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('email/send', 'SendmailController@sendmail');
