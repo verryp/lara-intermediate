@@ -8,6 +8,10 @@
 </p>
 
 ## Learning Path
-- Events and Listener
-- Push notification to email
-- Push notification to telegram
+
+-   Events and Listener
+-   Push notification to email
+-   Push notification to telegram
+-   Queuing
+-   Make Command
+-   Scheduler
